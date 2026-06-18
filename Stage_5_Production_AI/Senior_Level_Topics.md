@@ -13,6 +13,15 @@ Running OpenAI APIs is easy, but expensive and bad for data privacy.
 Senior engineers know how to run open-weight models (like Llama 3, Mistral) on local GPUs or company servers.
 - **Tools:** `vLLM` (High-throughput serving), `Ollama` (Easy local execution).
 
+### [AIOps (AI for IT Operations)](https://github.com/resources/articles/what-is-aiops)
+AI for IT operations (AIOps) is the application of AI technologies—such as machine learning and natural language processing—to automate and enhance IT operations. AIOps enables IT teams and DevOps engineers to detect incidents faster, streamline root cause analysis, and optimize system performance.
+
+### [Unsupervised Learning](https://github.com/resources/articles/what-is-unsupervised-learning)
+Unsupervised learning is a branch of machine learning that focuses on analyzing unlabeled data to uncover hidden patterns, structures, and relationships. It is frequently used in AIOps for anomaly detection.
+
+### [AI Coding](https://github.com/resources/articles/ai-coding-tools) & [Vibe Coding](https://github.com/resources/articles/what-is-vibe-coding)
+Vibe coding is a natural language-driven, AI-assisted way to build software. Instead of writing every line of code by hand, you describe what you want via natural language prompts to an agentic AI system. AI coding tools exist thanks to the rise of large language models (LLMs) and natural language processing.
+
 ## 2. Recommended YouTube Tutorials
 
 - [GraphRAG Explained (Microsoft Research)](https://www.youtube.com/watch?v=vIfkY2Z9U2Q)

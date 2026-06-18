@@ -2,7 +2,7 @@
 
 ## 1. Detailed Theory
 
-Prompt engineering is the practice of designing inputs (prompts) to get optimal outputs from LLMs. It is less about "hacking" the model and more about providing clear, structured context.
+[Prompt engineering](https://github.com/resources/articles/what-is-prompt-engineering) is the practice of writing clear, purposeful inputs that guide AI models to deliver accurate and context-aware outputs. It’s become a foundational skill across AI-assisted workflows, helping teams shape how large language models (LLMs) respond.
 
 ### Core Techniques
 

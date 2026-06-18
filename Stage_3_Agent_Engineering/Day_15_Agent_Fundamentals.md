@@ -2,7 +2,9 @@
 
 ## 1. Detailed Theory
 
-An **AI Agent** is an LLM given the ability to *reason* and *take actions* in the outside world, rather than just generating text. 
+An **[AI Agent](https://github.com/resources/articles/what-are-ai-agents)** is an autonomous software tool that performs tasks, makes decisions, and interacts with its environment intelligently and rationally. AI agents differ from other AI technologies in their ability to act autonomously. Unlike other AI models that require constant human input, intelligent agents can initiate actions, make decisions based on predefined goals, and adapt to new information in real time.
+
+At its core, **[Agentic AI](https://github.com/resources/articles/what-is-agentic-ai)** is a system built around an AI model that enables it to operate more like an active teammate, capable of setting goals, taking action, and working independently. This system uses memory (to retain context), tools (like access to your codebase or terminal), a defined goal, and the autonomy to act.
 
 ### Core Components of an Agent
 
